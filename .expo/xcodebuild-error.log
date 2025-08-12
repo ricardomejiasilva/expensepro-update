@@ -1,0 +1,10 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, arch:arm64, id:4C18217E-84B5-4D5C-951C-2C5E19029B97, OS:18.3.1, name:iPhone 16 }
+{ platform:iOS Simulator, arch:x86_64, id:4C18217E-84B5-4D5C-951C-2C5E19029B97, OS:18.3.1, name:iPhone 16 }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileC /Users/ricardomejia/Library/Developer/Xcode/DerivedData/ExpensePro-gsigijcsbdcvkzgtmtzrznnzwnoa/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/arm64/SentrySamplingProfiler.o /Users/ricardomejia/Projects/expense-pro-mobile-app/src/ExpenseProMobileApp.App/ios/Pods/Sentry/Sources/Sentry/SentrySamplingProfiler.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'Sentry' from project 'Pods')
+	Building workspace ExpensePro with scheme ExpensePro and configuration Debug
+(2 failures)

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377551726786",
+    "project_id": "expensepro-app",
+    "storage_bucket": "expensepro-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377551726786:android:55ac9e26b67e8f7608335b",
+        "android_client_info": {
+          "package_name": "com.webstaurantstore.expensepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKA1UgXcy3zdn4Ga9fNhthW6zO9BDc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

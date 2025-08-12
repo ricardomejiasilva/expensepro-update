@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704961111295",
+    "project_id": "expensepro-app-staging",
+    "storage_bucket": "expensepro-app-staging.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704961111295:android:17b7d514cdcade1efdd8ca",
+        "android_client_info": {
+          "package_name": "com.webstaurantstore.expensepro.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6umhWwdp_r9ZVg-PRcsf5yTRAg72vrQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704961111295:android:c1fa535096bea3fffdd8ca",
+        "android_client_info": {
+          "package_name": "com.webstaurantstore.expensepro.preview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6umhWwdp_r9ZVg-PRcsf5yTRAg72vrQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
